@@ -1,1 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T15:12:07.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="zmz3v2rqGGgLMGx0eqcU" type="github"><diagram id="_cfD39pQkt_xBeSla2JN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-15T15:28:25.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="wcXVSVGA5Au6DOWUPuDS" type="github">
+  <diagram id="_9LYclxa8jWd2QYd6AFQ" name="Page-1">
+    <mxGraphModel dx="880" dy="1698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t1NIPtzvpAg4985KFBNs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t1NIPtzvpAg4985KFBNs-1" target="t1NIPtzvpAg4985KFBNs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1NIPtzvpAg4985KFBNs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t1NIPtzvpAg4985KFBNs-1" target="t1NIPtzvpAg4985KFBNs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t1NIPtzvpAg4985KFBNs-1" value="First level" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="340" y="38" width="66" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="t1NIPtzvpAg4985KFBNs-3" value="Sub - TI" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="260" y="141" width="44" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="t1NIPtzvpAg4985KFBNs-4" value="Sub - Marketing" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="425" y="141" width="44" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="t1NIPtzvpAg4985KFBNs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t1NIPtzvpAg4985KFBNs-10" target="t1NIPtzvpAg4985KFBNs-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="138" y="6" />
+              <mxPoint x="371" y="6" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t1NIPtzvpAg4985KFBNs-10" value="Billing" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Cost_Management_and_Billing.svg;" vertex="1" parent="1">
+          <mxGeometry x="104" y="144" width="68" height="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
